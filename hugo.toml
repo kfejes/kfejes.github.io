@@ -1,0 +1,30 @@
+baseURL = 'kfejes.github.io'
+locale = 'en-us'
+title = 'Saját Agóra'
+theme = "hugo-bearcub"
+
+# Szép és tiszta URL-ek a posztokhoz (pl. domain.hu/a-cikk-cime/)
+[permalinks]
+  posts = '/:slug/'
+
+# A Bear Cub téma specifikus beállításai
+[params]
+
+  description = 'Gondolatok technológiáról, permacomputingról és a független webről.'
+  favicon = 'favicon.ico'
+
+  [params.author]
+    name = 'Tóth Elek'
+    email = 'elek@sajak-domainem.hu' # Ha nem akarod megadni az emailedet, hagyhatod üresen is: ''
+
+
+# Fejléc menüpontok
+[[menu.main]]
+  name = 'Posztok'
+  url = '/posts/'
+  weight = 1
+
+[[menu.main]]
+  name = 'Rólam'
+  url = '/about/'
+  weight = 2

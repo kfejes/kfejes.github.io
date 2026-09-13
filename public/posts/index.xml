@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Saját Agóra</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Saját Agóra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>elek@sajak-domainem.hu (Tóth Elek)</managingEditor>
+    <webMaster>elek@sajak-domainem.hu (Tóth Elek)</webMaster>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miért nem a substack?</title>
+      <link>//localhost:1313/mi%C3%A9rt-nem-a-substack/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate><author>elek@sajak-domainem.hu (Tóth Elek)</author>
+      <guid>//localhost:1313/mi%C3%A9rt-nem-a-substack/</guid>
+      <description>&lt;p&gt;Belecsapok a közepébe. Rettentő furcsának találom, hogy a vélemények, kritikák, hivatalos nyilatkozatok elfogadott platformja néhány magáncég kezében van, legyen szó akár a Facebookról, akár a Youtube-ról, és társaikról. Számomra ez nonszensz, és nem azért mert félek a Facebook cenzúrától.&lt;/p&gt;&#xA;&lt;p&gt;Ez egy kisérlet. Rettentően unom, hogy egy olyan láthatatlan rendszer, sehol le nem jegyzett, csak tapasztalás alapján észrevehető szabályainak akarjak megfelelni, egy olyan agórában, ahol a házszabályokat csak az egyik oldal kénye-kedve szerint megváltoztathatja, a másik oldal, pedig jobb híján kénytelen elfogadni azt. Már amennyiben tud róla.&#xA;Nem vagyok cirkuszi bohóc, figyelemért kuncsorgó beszélő fej, nem akarok senkit szórakoztatni, közösséget építeni magam köré, abban reménykedve, hogy idővel kutyakaját, körömlakklemosót meg VPN szolgáltatást reklámozhatok. Csak egy platformot szeretnék, ahol a gondolataimat megszűrhetem, és amit értékesnek találok, azt közreadhatom, anélkül hogy cenzúrától kellene tartanom, te pedig Kedves Olvasó, azt kezdesz vele, amit akarsz.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Belecsapok a közepébe. Rettentő furcsának találom, hogy a vélemények, kritikák, hivatalos nyilatkozatok elfogadott platformja néhány magáncég kezében van, legyen szó akár a Facebookról, akár a Youtube-ról, és társaikról. Számomra ez nonszensz, és nem azért mert félek a Facebook cenzúrától.</p>
+<p>Ez egy kisérlet. Rettentően unom, hogy egy olyan láthatatlan rendszer, sehol le nem jegyzett, csak tapasztalás alapján észrevehető szabályainak akarjak megfelelni, egy olyan agórában, ahol a házszabályokat csak az egyik oldal kénye-kedve szerint megváltoztathatja, a másik oldal, pedig jobb híján kénytelen elfogadni azt. Már amennyiben tud róla.
+Nem vagyok cirkuszi bohóc, figyelemért kuncsorgó beszélő fej, nem akarok senkit szórakoztatni, közösséget építeni magam köré, abban reménykedve, hogy idővel kutyakaját, körömlakklemosót meg VPN szolgáltatást reklámozhatok. Csak egy platformot szeretnék, ahol a gondolataimat megszűrhetem, és amit értékesnek találok, azt közreadhatom, anélkül hogy cenzúrától kellene tartanom, te pedig Kedves Olvasó, azt kezdesz vele, amit akarsz.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

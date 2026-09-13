@@ -1,0 +1,15 @@
+{{ define "main" }}
+  {{/* A legfrissebb poszt lekérése (dátum szerint csökkenő sorrendben, az első elem) */}}
+  {{ range first 1 (where .Site.RegularPages "Type" "posts") }}
+    <article class="latest-post">
+      <header>
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006.01.02." }}</time>
+      </header>
+
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+    </article>
+  {{ end }}
+{{ end }}

@@ -1,4 +1,4 @@
-baseURL = 'kfejes.github.io'
+baseURL = 'https://kfejes.github.io/'
 locale = 'en-us'
 title = 'Saját Agóra'
 theme = "hugo-bearcub"

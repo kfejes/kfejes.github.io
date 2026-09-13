@@ -14,8 +14,7 @@ theme = "hugo-bearcub"
   favicon = 'favicon.ico'
 
   [params.author]
-    name = 'Tóth Elek'
-    email = 'elek@sajak-domainem.hu' # Ha nem akarod megadni az emailedet, hagyhatod üresen is: ''
+    email = 'karoly.fejes@gmail.com'
 
 
 # Fejléc menüpontok

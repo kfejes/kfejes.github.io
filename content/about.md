@@ -4,4 +4,4 @@ date: 2026-08-20
 draft: false
 ---
 
-Üdvözöllek a weboldalamon! Ez egy algoritmusszabad, független felület.
+Ez egy kisérlet, Te pedig Kedves Olvasó, azt kezdesz vele amit akarsz.

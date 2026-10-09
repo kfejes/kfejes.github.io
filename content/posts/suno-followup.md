@@ -3,8 +3,7 @@ title: "FOLLOWUP: Suno - csinálj magadnak középszert"
 date: 2026-10-09
 draft: false
 ---
-Kicsit továbbgondoltam a zene generálással kapcsolatos gondolatmenetemet (előzmény [itt]
-(https://kfejes.github.io/suno-csin%C3%A1lj-magadnak-k%C3%B6z%C3%A9pszert/)).
+Kicsit továbbgondoltam a zene generálással kapcsolatos gondolatmenetemet (előzmény [itt](https://kfejes.github.io/suno-csin%C3%A1lj-magadnak-k%C3%B6z%C3%A9pszert/)).
 
 Amikor ezen gondolkodtam, inkább a kulturális hatásokra hegyeztem ki, és a környezeti és gazdasági hatásokat nem vettem figyelembe, pedig hát azt látjuk, hogy van nekik, és nem is kevés. De szerintem ezekkel a hatásokkal többen és alaposabban foglalkoznak. Szerintem az AI a tökéletes eszköz, ha a kapitalista termelést el akarjuk tolni a falig. Szinte elenyésző költség, és aránylag elfogadható produktum. Az hogy ennek milyen környezeti terhelése van, az soha nem érdekelt senkit. Sem akkor, amikor szenet égettünk a hőerőművekben, sem a rétegrepesztéses földgáz kitermelésnél. Ameddig a várható nyereség több, mint az okozott kár, addig ezt mindig meg fogják lépni. 
 Etikus-e röhögni az éneklő Gajdics Ottón, ha közben az Iowa-iaknak elfogy az ivóvizük, meg iszonyatosak az energiaszámláik? Szerintem ér röhögni (nyílván öt lenyúzott rókabőrrel később unalmas már ugyanaz a poén), amellett hogy azt gondolom, hogy ezeknek az AI cégeknek nagyon szigorú szabályokkal (és ha nem tartják be, óriási büntetésekkel) kellene szembenézniük. 
